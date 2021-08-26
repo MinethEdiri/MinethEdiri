@@ -31,3 +31,13 @@ header{
     width: 300px;
     cursor: pointer;
 }
+header .navigation a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 2px 15px;
+    border-radius: 20px;
+    transition: 0.3s;
+    transition-property: background;
+}
